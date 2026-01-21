@@ -76,5 +76,5 @@ $$
 * $d_{ji}$ is the distance between city $j$ and city $i$.
  ## 👨‍💻 Author
 **Md Saiduzzaman**
-* **Role**: CSE Student @ Southeast University
+* **Role**: CSE Student @ Southeast University.
 * **GitHub**: [@saiduzzaman-sojib](https://github.com/saiduzzaman-sojib)
